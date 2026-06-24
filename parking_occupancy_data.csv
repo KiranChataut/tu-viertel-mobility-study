@@ -1,0 +1,109 @@
+round,day_type,street_id,street_name,time_slot,occupancy_pct
+round1,weekend,1,Enhuberstraße,11-13,32
+round1,weekend,1,Enhuberstraße,14-16,33
+round1,weekend,1,Enhuberstraße,21-23,34
+round1,weekend,2,Steinheilstraße,11-13,39
+round1,weekend,2,Steinheilstraße,14-16,39
+round1,weekend,2,Steinheilstraße,21-23,40
+round1,weekend,3,Arcisstraße (3),11-13,48
+round1,weekend,3,Arcisstraße (3),14-16,44
+round1,weekend,3,Arcisstraße (3),21-23,42
+round1,weekend,4,Arcisstraße (4),11-13,38
+round1,weekend,4,Arcisstraße (4),14-16,39
+round1,weekend,4,Arcisstraße (4),21-23,38
+round1,weekend,5,Arcisstraße (5),11-13,24
+round1,weekend,5,Arcisstraße (5),14-16,24
+round1,weekend,5,Arcisstraße (5),21-23,26
+round1,weekend,6,Arcisstraße (6),11-13,22
+round1,weekend,6,Arcisstraße (6),14-16,24
+round1,weekend,6,Arcisstraße (6),21-23,22
+round1,weekend,7,Zieblandstraße,11-13,54
+round1,weekend,7,Zieblandstraße,14-16,54
+round1,weekend,7,Zieblandstraße,21-23,65
+round1,weekend,8,Luisenstraße,11-13,20
+round1,weekend,8,Luisenstraße,14-16,19
+round1,weekend,8,Luisenstraße,21-23,18
+round1,weekend,9,Schellingstraße,11-13,45
+round1,weekend,9,Schellingstraße,14-16,48
+round1,weekend,9,Schellingstraße,21-23,46
+round1,weekday,1,Enhuberstraße,6-8,32
+round1,weekday,1,Enhuberstraße,11-13,34
+round1,weekday,1,Enhuberstraße,21-23,33
+round1,weekday,2,Steinheilstraße,6-8,38
+round1,weekday,2,Steinheilstraße,11-13,39
+round1,weekday,2,Steinheilstraße,21-23,40
+round1,weekday,3,Arcisstraße (3),6-8,36
+round1,weekday,3,Arcisstraße (3),11-13,44
+round1,weekday,3,Arcisstraße (3),21-23,44
+round1,weekday,4,Arcisstraße (4),6-8,37
+round1,weekday,4,Arcisstraße (4),11-13,41
+round1,weekday,4,Arcisstraße (4),21-23,39
+round1,weekday,5,Arcisstraße (5),6-8,20
+round1,weekday,5,Arcisstraße (5),11-13,25
+round1,weekday,5,Arcisstraße (5),21-23,27
+round1,weekday,6,Arcisstraße (6),6-8,20
+round1,weekday,6,Arcisstraße (6),11-13,23
+round1,weekday,6,Arcisstraße (6),21-23,22
+round1,weekday,7,Zieblandstraße,6-8,63
+round1,weekday,7,Zieblandstraße,11-13,56
+round1,weekday,7,Zieblandstraße,21-23,63
+round1,weekday,8,Luisenstraße,6-8,17
+round1,weekday,8,Luisenstraße,11-13,19
+round1,weekday,8,Luisenstraße,21-23,20
+round1,weekday,9,Schellingstraße,6-8,40
+round1,weekday,9,Schellingstraße,11-13,43
+round1,weekday,9,Schellingstraße,21-23,47
+round2,weekend,1,Enhuberstraße,11-13,33
+round2,weekend,1,Enhuberstraße,14-16,32
+round2,weekend,1,Enhuberstraße,21-23,28
+round2,weekend,2,Steinheilstraße,11-13,35
+round2,weekend,2,Steinheilstraße,14-16,34
+round2,weekend,2,Steinheilstraße,21-23,33
+round2,weekend,3,Arcisstraße (3),11-13,40
+round2,weekend,3,Arcisstraße (3),14-16,39
+round2,weekend,3,Arcisstraße (3),21-23,32
+round2,weekend,4,Arcisstraße (4),11-13,28
+round2,weekend,4,Arcisstraße (4),14-16,28
+round2,weekend,4,Arcisstraße (4),21-23,34
+round2,weekend,5,Arcisstraße (5),11-13,17
+round2,weekend,5,Arcisstraße (5),14-16,18
+round2,weekend,5,Arcisstraße (5),21-23,23
+round2,weekend,6,Arcisstraße (6),11-13,19
+round2,weekend,6,Arcisstraße (6),14-16,18
+round2,weekend,6,Arcisstraße (6),21-23,23
+round2,weekend,7,Zieblandstraße,11-13,45
+round2,weekend,7,Zieblandstraße,14-16,40
+round2,weekend,7,Zieblandstraße,21-23,63
+round2,weekend,8,Luisenstraße,11-13,18
+round2,weekend,8,Luisenstraße,14-16,18
+round2,weekend,8,Luisenstraße,21-23,21
+round2,weekend,9,Schellingstraße,11-13,36
+round2,weekend,9,Schellingstraße,14-16,41
+round2,weekend,9,Schellingstraße,21-23,41
+round2,weekday,1,Enhuberstraße,6-8,35
+round2,weekday,1,Enhuberstraße,11-13,33
+round2,weekday,1,Enhuberstraße,21-23,31
+round2,weekday,2,Steinheilstraße,6-8,30
+round2,weekday,2,Steinheilstraße,11-13,32
+round2,weekday,2,Steinheilstraße,21-23,38
+round2,weekday,3,Arcisstraße (3),6-8,40
+round2,weekday,3,Arcisstraße (3),11-13,48
+round2,weekday,3,Arcisstraße (3),21-23,44
+round2,weekday,4,Arcisstraße (4),6-8,38
+round2,weekday,4,Arcisstraße (4),11-13,39
+round2,weekday,4,Arcisstraße (4),21-23,33
+round2,weekday,5,Arcisstraße (5),6-8,18
+round2,weekday,5,Arcisstraße (5),11-13,20
+round2,weekday,5,Arcisstraße (5),21-23,11
+round2,weekday,6,Arcisstraße (6),6-8,22
+round2,weekday,6,Arcisstraße (6),11-13,21
+round2,weekday,6,Arcisstraße (6),21-23,20
+round2,weekday,7,Zieblandstraße,6-8,58
+round2,weekday,7,Zieblandstraße,11-13,57
+round2,weekday,7,Zieblandstraße,21-23,42
+round2,weekday,8,Luisenstraße,6-8,18
+round2,weekday,8,Luisenstraße,11-13,20
+round2,weekday,8,Luisenstraße,21-23,20
+round2,weekday,9,Schellingstraße,6-8,39
+round2,weekday,9,Schellingstraße,11-13,39
+round2,weekday,9,Schellingstraße,21-23,44
